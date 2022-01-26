@@ -49,4 +49,4 @@ For full  documentation, see [the original](http://etd.vt.edu/etd-ml/dtdetds.htm
 ```
 
 ## License
-[BSD-3-Clause License](https://github.com/Opening-ETDs/etd-dtd/blob/LICENSE)
+[BSD-3-Clause License](https://github.com/Opening-ETDs/etd-dtd/blob/main/LICENSE)
