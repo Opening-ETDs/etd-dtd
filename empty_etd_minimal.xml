@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etd SYSTEM "file:/Users/waingram/Projects/etd-dtd/etd.xml.dtd">
+<etd>
+    <front>
+        <title></title>
+        <author>
+            <given></given>
+            <surname></surname>
+            <suffix></suffix>
+        </author>
+        <submission></submission>
+        <school></school>
+        <degree></degree>
+        <major></major>
+        <approvals></approvals>
+        <date></date>
+        <city></city>
+        <state></state>
+        <keywords>
+            <keyword></keyword>
+        </keywords>
+        <copyright></copyright>
+        <abstract></abstract>
+    </front>
+    <body>
+        <chapter></chapter>
+    </body>
+    <back>
+        <bibliography></bibliography>
+        <vita></vita>
+    </back>
+    <footnote id="x1"></footnote>
+</etd>
